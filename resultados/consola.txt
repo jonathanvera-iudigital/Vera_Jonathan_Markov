@@ -1,0 +1,13 @@
+C:\Users\jonat\OneDrive\Documentos\hmm-dados-cargados\figuras.py:19: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+corrida 1 (semilla 42):   cee83304b2939486da1bcda9ca7929f0be68943a479750dcaff729ea34a19ecb
+corrida 2 (semilla 42):   cee83304b2939486da1bcda9ca7929f0be68943a479750dcaff729ea34a19ecb
+corrida 3 (semilla 43): 1de1a20f160f9d6066972c60098881ddfa9133f57d8108c1bae3bf4efa4eb21c
+identico con misma semilla: True
+distinto con otra semilla:  True
+
+Listo. Resultados en C:\Users\jonat\OneDrive\Documentos\hmm-dados-cargados\resultados
+
+real	8m17.885s
+user	0m0.000s
+sys	0m0.000s

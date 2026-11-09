@@ -1,0 +1,5 @@
+corrida 1 (semilla 42):   cee83304b2939486da1bcda9ca7929f0be68943a479750dcaff729ea34a19ecb
+corrida 2 (semilla 42):   cee83304b2939486da1bcda9ca7929f0be68943a479750dcaff729ea34a19ecb
+corrida 3 (semilla 43): 1de1a20f160f9d6066972c60098881ddfa9133f57d8108c1bae3bf4efa4eb21c
+identico con misma semilla: True
+distinto con otra semilla:  True
